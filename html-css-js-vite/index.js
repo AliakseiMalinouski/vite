@@ -1,4 +1,6 @@
 import blueScreen from './assets/blue_screen.jpg';
+import './styles/index.css';
+import './styles/pre-index.scss';
 
 const buttonForm = document.getElementById('button_redirect_form');
 
